@@ -1,4 +1,4 @@
-                       GatorQue Engines (GQE)
+# GatorQue Engines (GQE)
 
 Mission
 =======
